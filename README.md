@@ -6,4 +6,4 @@
 ---
 
 - EMAIL: kyespace.dev@gmail.com
-- blog: [https://kye-develop.tistory.com/](https://kyespace.github.io/)
+- blog: [https://kyspace.github.io/](https://kyespace.github.io/)
